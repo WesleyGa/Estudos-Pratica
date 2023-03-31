@@ -10,11 +10,12 @@ public class AppTest {
 
 	  	/* Chamando o construtor da classe App.java  */
 		App enviandoEmail = new App("", /* Lista de emails destinatarios */
-				"Wesley gabriel", /* Nome do Remetente */
-				" Enviando email", /* Assunto do email */
-				"Hellow world"); /* Tesxto do email */
+				"", /* Nome do Remetente */
+				"", /* Assunto do email */
+				""); /* Tesxto do email */
 
 		enviandoEmail.enviarEmail(); /* enviando o objeto email */
 
 	}
+
 }
