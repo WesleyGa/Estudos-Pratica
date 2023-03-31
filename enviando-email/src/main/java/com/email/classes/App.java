@@ -12,8 +12,8 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 public class App {
-	private String userName = "wes160602@gmail.com";
-	private String senha = "bsfbxtllejtggzil";
+	private String userName = "";
+	private String senha = "";
 
 	/* que recebe a carta. */
 	private String listaDeDestinatário = "";
