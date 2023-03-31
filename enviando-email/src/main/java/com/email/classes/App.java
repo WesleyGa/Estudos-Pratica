@@ -29,7 +29,7 @@ public class App {
 	          /* Construtor  do Email*/
 	public App(String listaDeDestinatário, String nomeRemetente, String assunto, String texto ) {
 		
-		/*Construcao do objeto*/
+		/*Construcao do objeto */
 		this.listaDeDestinatário = listaDeDestinatário;
 		this.nomeRemetente = nomeRemetente;
 		this.assunto = assunto;
